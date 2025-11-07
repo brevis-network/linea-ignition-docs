@@ -4,11 +4,11 @@ Linea Ignition is designed to incentivize liquidity providers (LPs) on Etherex a
 
 ### Core Protocols and Pools
 
-{% hint style="warning" %}
+> **Note:** 
 IMPORTANT UPDATE:
 
 **Euler mUSD (Re7 Labs) pool** is eligible for LINEA incentives since September 22, 2025. [View detailed rewards schedule](rewards-schedule.md#epoch-september-22-2025-september-28-2025).
-{% endhint %}
+
 
 LPs can earn rewards with the following types of activities:
 

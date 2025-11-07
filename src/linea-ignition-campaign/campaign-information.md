@@ -28,9 +28,9 @@ The APR shown on the UI is an estimate value based on last week’s rewards and 
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfp3-krRpSAm7t-wMFjlz43e7vQTgoagwio49gNj6Xfcuz8LVuXWjg8D-JMSBI-jpNyah8cKrOyGGsKHkfttWS-zZqlQMtyPFQh5pI-1z-F5Zc2dUjC0KlFR1POXrb5UPvFdTEB?key=wKoiQLfeVFkFCSNKXJfBXg)
 
-{% hint style="warning" %}
+> **Note:** 
 For **Etherex pools**, the actual APR of your LP position depends on the swap volume your liquidity absorbs and the corresponding swap slippage.
-{% endhint %}
+
 
 ## End Date&#x20;
 

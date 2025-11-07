@@ -1,10 +1,10 @@
 # Table of contents
 
-## WELCOME
+# WELCOME
 
 * [Introduction](README.md)
 
-## LINEA IGNITION CAMPAIGN
+# LINEA IGNITION CAMPAIGN
 
 * [Eligibility](linea-ignition-campaign/eligibility.md)
 * [Rewards Schedule](linea-ignition-campaign/rewards-schedule.md)
@@ -13,11 +13,11 @@
 * [Claim Rewards and Vesting](linea-ignition-campaign/claim-rewards-and-vesting.md)
 * [MetaMask USD (mUSD)](linea-ignition-campaign/metamask-usd-musd.md)
 
-## LP Dashboard GUIDE
+# LP Dashboard GUIDE
 
 * [Check Incentivized Activities](lp-dashboard-guide/check-incentivized-activities.md)
 * [View/Claim Rewards](lp-dashboard-guide/view-claim-rewards.md)
 
-## COMMUNITY
+# COMMUNITY
 
 * [Community Support](community/community-support.md)

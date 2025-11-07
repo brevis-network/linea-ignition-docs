@@ -1,8 +1,8 @@
 # Rewards Schedule
 
-{% hint style="warning" %}
+> **Note:** 
 The rewards schedule is up to adjustment by the Linea team on a weekly basis.
-{% endhint %}
+
 
 ### Epoch: September 1, 2025 - September 7, 2025
 
@@ -16,9 +16,9 @@ Total rewards amount in the epoch: 150,000,000 LINEA
 | Etherex ETH/REX                                 | 6,750,000            |
 | Lending Pools (Aave, Euler)(USDC, USDT, ETH)\*  | 105,000,000          |
 
-{% hint style="info" %}
+> **Note:** 
 \*The reward allocation to each lending pool is dynamically computed based on their actual TVL. See the [rewards calculation rules](rewards-calculation.md#lending-pools) for details.
-{% endhint %}
+
 
 ### Epoch: September 8, 2025 - September 14, 2025
 
@@ -33,9 +33,9 @@ Total rewards amount in the epoch: 172,000,000 LINEA
 | Etherex ETH/LINEA                               | 12,000,000           |
 | Lending Pools (Aave, Euler)(USDC, USDT, ETH)\*  | 128,000,000          |
 
-{% hint style="info" %}
+> **Note:** 
 \*The reward allocation to each lending pool is dynamically computed based on their actual TVL. See the [rewards calculation rules](rewards-calculation.md#lending-pools) for details.
-{% endhint %}
+
 
 ### Epoch: September 15, 2025 - September 21, 2025
 
@@ -54,9 +54,9 @@ Total rewards amount in the epoch: 140,000,000 LINEA
 | Etherex mUSD/LINEA                              | 2,800,000            |
 | Lending Pools (Aave, Euler)(USDC, USDT, ETH)\*  | 112,000,000          |
 
-{% hint style="info" %}
+> **Note:** 
 \*The reward allocation to each lending pool is dynamically computed based on their actual TVL. See the [rewards calculation rules](rewards-calculation.md#lending-pools) for details.
-{% endhint %}
+
 
 ### Epoch: September 22, 2025 - September 28, 2025
 
@@ -75,9 +75,9 @@ Total rewards amount in the epoch: 70,000,000 LINEA
 | Etherex mUSD/LINEA                                    | 1,400,000            |
 | Lending Pools (Aave, Euler)(mUSD, USDC, USDT, ETH)\*  | 56,000,000           |
 
-{% hint style="info" %}
+> **Note:** 
 \*The reward allocation to each lending pool is dynamically computed based on their actual TVL. See the [rewards calculation rules](rewards-calculation.md#lending-pools) for details.
-{% endhint %}
+
 
 ### Epoch: September 29, 2025 - October 5, 2025
 
@@ -96,9 +96,9 @@ Total rewards amount in the epoch: 70,000,000 LINEA
 | Etherex mUSD/LINEA                                    | 1,400,000            |
 | Lending Pools (Aave, Euler)(mUSD, USDC, USDT, ETH)\*  | 56,000,000           |
 
-{% hint style="info" %}
+> **Note:** 
 \*The reward allocation to each lending pool is dynamically computed based on their actual TVL. See the [rewards calculation rules](rewards-calculation.md#lending-pools) for details.
-{% endhint %}
+
 
 ### Epoch: October 6, 2025 - October 12, 2025
 
@@ -117,9 +117,9 @@ Total rewards amount in the epoch: 70,000,000 LINEA
 | Etherex mUSD/LINEA                                    | 1,400,000            |
 | Lending Pools (Aave, Euler)(mUSD, USDC, USDT, ETH)\*  | 56,000,000           |
 
-{% hint style="info" %}
+> **Note:** 
 \*The reward allocation to each lending pool is dynamically computed based on their actual TVL. See the [rewards calculation rules](rewards-calculation.md#lending-pools) for details.
-{% endhint %}
+
 
 ### Epoch: October 13, 2025 - October 19, 2025
 
@@ -138,9 +138,9 @@ Total rewards amount in the epoch: 70,000,000 LINEA
 | Etherex mUSD/LINEA                                    | 1,400,000            |
 | Lending Pools (Aave, Euler)(mUSD, USDC, USDT, ETH)\*  | 56,000,000           |
 
-{% hint style="info" %}
+> **Note:** 
 \*The reward allocation to each lending pool is dynamically computed based on their actual TVL. See the [rewards calculation rules](rewards-calculation.md#lending-pools) for details.
-{% endhint %}
+
 
 ### Epoch: October 20, 2025 - October 26, 2025
 
@@ -159,19 +159,19 @@ Total rewards amount in the epoch: 70,000,000 LINEA
 | Etherex mUSD/LINEA                                    | 1,400,000            |
 | Lending Pools (Aave, Euler)(mUSD, USDC, USDT, ETH)\*  | 56,000,000           |
 
-{% hint style="info" %}
+> **Note:** 
 \*The reward allocation to each lending pool is dynamically computed based on their actual TVL. See the [rewards calculation rules](rewards-calculation.md#lending-pools) for details.
-{% endhint %}
+
 
 ### Epoch: October 27, 2025 - November 2, 2025 (extension)
 
-{% hint style="success" %}
+> **Note:** 
 This is a special **1-week extension** to the original Linea Ignition program.
-{% endhint %}
 
-{% hint style="warning" %}
+
+> **Note:** 
 Rewards accrued during the extended period  still follows a vesting schedule. [View the vesting schedule](claim-rewards-and-vesting.md#vesting-for-extended-session-oct-27-nov-2).
-{% endhint %}
+
 
 Total rewards amount in the epoch: 70,000,000 LINEA
 
@@ -188,6 +188,6 @@ Total rewards amount in the epoch: 70,000,000 LINEA
 | Etherex mUSD/LINEA                                    | 1,400,000            |
 | Lending Pools (Aave, Euler)(mUSD, USDC, USDT, ETH)\*  | 56,000,000           |
 
-{% hint style="info" %}
+> **Note:** 
 \*The reward allocation to each lending pool is dynamically computed based on their actual TVL. See the [rewards calculation rules](rewards-calculation.md#lending-pools) for details.
-{% endhint %}
+
