@@ -1,0 +1,9 @@
+[book]
+title = "Linea Ignition"
+authors = ["jie"]
+language = "en"
+
+[output.html]
+theme = "theme"
+additional-css = ["theme/custom.css"]
+site-url = "/"
