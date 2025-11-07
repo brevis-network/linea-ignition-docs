@@ -13,7 +13,7 @@ If you encounter any issues during the Linea Ignition campaign period, feel free
 * Talk to a builder: [https://form.typeform.com/to/lduiliob](https://form.typeform.com/to/lduiliob)\
 
 
-**Dive deeper into Linea**:
+**Dive deeper into Linea**
 
 * Website: [https://linea.build/](https://linea.build/)
 * X: [https://x.com/LineaBuild](https://x.com/LineaBuild)
