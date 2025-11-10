@@ -67,7 +67,7 @@ $$
 * $$R_k$$ is the reward allocated to the pool (computed according to the formulas in Step 1).
 * $$S^k_i$$ is the **eligible holding** by LP $$i$$ in pool $$k$$, calculated as $$S_i^k = \max (0, c_i^k - \frac{d_i^k}{l_k})$$, where
   * $$c_i^k$$ is the supplied collateral (aToken/eToken) TWA by LP $$i$$ in pool $$k$$
-  * $$d_i^k$$ is the debt (dToken) TWA by LP $$i$$ in pool $$k$$.
+  * $$d_i^k$$ is the debt (dToken) TWA by LP $$i$$ in pool $$k$$
   * $$l_k$$ is the liquidation threshold for pool $$k$$ (e.g., 78% for Aave USDC/USDT pool, 83% for Aave ETH pool). For all Euler pools, the liquidation threshold is hardcoded to 92%.
 
 {% hint style="danger" %}
