@@ -7,3 +7,4 @@ language = "en"
 theme = "theme"
 additional-css = ["theme/custom.css"]
 site-url = "/"
+mathjax-support = true
