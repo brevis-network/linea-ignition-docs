@@ -42,6 +42,25 @@ def remove_figure_tags(content):
     return content
 
 
+def convert_inline_math(content):
+    """Convert inline $$word$$ to $word$ but preserve block-level math equations."""
+    lines = content.split('\n')
+    result = []
+    
+    for line in lines:
+        # Skip lines that are just $$ (block math delimiters)
+        if line.strip() == '$$':
+            result.append(line)
+        else:
+            # Replace inline $$...$$ with $...$
+            # This regex matches $$ followed by non-whitespace, content, and closing $$
+            # It uses negative lookbehind/lookahead to ensure not matching block math
+            line = re.sub(r'\$\$([^\$\n]+?)\$\$', r'$\1$', line)
+            result.append(line)
+    
+    return '\n'.join(result)
+
+
 def convert_gitbook_tags(content):
     """Convert all GitBook {% %} tags to standard markdown format."""
     
@@ -114,6 +133,7 @@ def process_markdown_file(file_path):
         content = remove_yaml_frontmatter(content)
         content = remove_figure_tags(content)
         content = convert_gitbook_tags(content)
+        content = convert_inline_math(content)
         
         # Special processing for SUMMARY.md
         if file_path.name == 'SUMMARY.md':
