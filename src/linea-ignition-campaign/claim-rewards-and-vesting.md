@@ -1,5 +1,9 @@
 # Claim Rewards and Vesting
 
+> **Note:** 
+The claim window for Linea Ignition rewards will close at 2026 April 2nd, 11:59 PM PDT.
+
+
 On the [campaign page](https://linea-ignition.brevis.network/), you can view your cumulative rewards up to the end of the past week.&#x20;
 
 All rewards earned in the Linea Ignition campaign are **vested**.&#x20;
